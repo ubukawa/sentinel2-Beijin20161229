@@ -1,0 +1,9 @@
+{
+    "version":8,
+"sources":{
+"r": {"type": "raster","tiles": ["https://ubukawa.github.io/sentinel2-Beijin20161229/20161229/{z}/{x}/{y}.png"],"attribution": "Copernicus Sentinel data (2016, EUROPEAN COMMISSION).<br>Observed on 2016-12-29","tileSize": 256,"maxzoom": 14}},
+"layers":[
+{"id": "sentinel2","type":"raster","source":"r"}
+],
+"center":[116.3451217, 40.0132106]
+}
